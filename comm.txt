@@ -1,11 +1,11 @@
-git init
-git status
-git add --add/.
-git add *
-git commit -m "message"
-git commit -a -m/ -am "message"
-git push
-git remote -v
+git init          ---used to initialized repo
+git status        ---used to check if something is added or changed in files or not
+git add --a/.     ---used to add current files in working
+git add *         ---used to add files
+git commit -m "message"                ---used to save added files
+git commit -a -m/ -am "message"        ---used to add and save files at once
+git push          ---used to send files to remote repo
+git remote -v     
 git remote
 git log
 git remote rm <variable_name>
