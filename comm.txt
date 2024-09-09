@@ -1,1 +1,25 @@
 git init
+git status
+git add --add/.
+git add *
+git commit -m "message"
+git commit -a -m/ -am "message"
+git push
+git remote -v
+git remote
+git log
+git remote rm <variable_name>
+git rm --cached <file_name>
+git rm <file_name>
+creation of .gitignore
+git mv <oldfile_name> <newfile_name>
+git clone <repo_link>
+fork
+git branch -M main 
+git diff
+git diff <file_name>
+git checkout <file_name>
+git chekout -- *
+git revert
+git reset --soft <commit_address>
+git checkout/switch "branch_name"
