@@ -23,3 +23,4 @@ git chekout -- *
 git revert
 git reset --soft <commit_address>
 git checkout/switch "branch_name"
+why this kolaveri d?
